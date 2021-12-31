@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammad Keyton 👋
 
 
-## I'm Fullstack Developer.
+## I'm a Fullstack Developer.
 
 - 🌱 I’m a lifelong learner,learning anything to make myself better as a developer.
 - 🥅 My 2022 Goals: Contribute more to Open Source projects
